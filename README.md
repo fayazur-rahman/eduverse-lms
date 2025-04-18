@@ -97,13 +97,14 @@ Explain how to use the LMS. Provide steps for both educators and students.
 |-------------------------------|------------------------------------|------------------------|---------------------------------------|
 | ![Dashboard](ss/homepage.png) | ![CourseList](ss/Courseslists.png) | ![CMS](ss/backend.png) | ![CourseModule](ss/CourseModules.png) |
 
-> **Figure**: The left image shows the dashboard interface. After selecting the car features and submitting, the right image shows the predicted price result.
+> **Figure**: The first image displays the homepage of Eduverse, showcasing available courses in a clean and user-friendly layout. Upon selecting a course, users are redirected to the backend of the Eduverse CMS, where they are required to log in or register. Once authenticated, users gain full access to the course module, including all enrolled courses and related content.
+
 ---
 
 ## 📧 Contact
 
 For support or collaboration:  
 **Email:** fayazur7@gmail.com  
-**Developed By:** MD Fayazur Rahman
+**Developed By:** [MD Fayazur Rahman](https://www.linkedin.com/in/md-fayazur-rahman/)
 
 ---
