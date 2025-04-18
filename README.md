@@ -95,7 +95,7 @@ Explain how to use the LMS. Provide steps for both educators and students.
 
 | Eduverse Homepage | Course Lists |
 |-------------------------------|--------------------|
-| ![Dashboard](ss/eduverse homepage.png) | ![CourseList](ss/Courses lists.png) |
+| ![Dashboard](ss/eduverse-homepage.png) | ![CourseList](ss/Courses-lists.png) |
 
 > **Figure**: The left image shows the dashboard interface. After selecting the car features and submitting, the right image shows the predicted price result.
 ---
