@@ -101,7 +101,7 @@ Explain how to use the LMS. Provide steps for both educators and students.
 
 ---
 
-## 📧 Contact
+## Contact
 
 For support or collaboration:  
 **Email:** fayazur7@gmail.com  
